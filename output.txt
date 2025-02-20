@@ -1,0 +1,8 @@
+
+--- --- STUDENT DATA --- ---
+Name of student Dhruv 
+Student roll number = 15 
+Student fees status = P 
+Student number of days present = 245.000000 
+Student attendence = 92.452827 
+--- --- --- --- ---
